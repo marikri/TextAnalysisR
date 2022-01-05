@@ -1,0 +1,27 @@
+# SimpleTextAnalysis
+My project in Data science at the University of Oslo, Simple text analysis using R and Tidyverse 
+
+# Introduction
+In this project I used a data set of text and labels. I did some data wrangling and text mining. I also tried out some text analysis methods and multi-class classification of text data.
+
+Disclaimer 1: This project has suffered from a wish to try a range of things, instead of doing one thing perfectly.
+Disclaimer 2: I have found a lot of help with the coding in forums etc., some are copied, some are just the inspiration, and some are made by using the Tidyverse’s cheat cheets.
+
+# The data
+Source:
+I found the data through Kaggle, and then downloaded it from the original source:
+https://www.cs.cmu.edu/~dbamman/booksummaries.html
+
+Description:
+Plot summaries of 16,559 books extracted from the November 2, 2012 dump of English- language Wikipedia. Tab-separated; columns
+
+# References
+Chuang, https://cynthiachuang.github.io/Difference-between-Multiclass-Multilabel-and- Multitask-Problem/
+Couch, A, (10/19/2020) "Tidy Tuesday Multiclass Classification" https://github.com/andrew-couch/Tidy- Tuesday/blob/master/Season%201/Scripts/TidyTuesdayMulticlassClassification.Rmd
+Devopedia. 2019. "Confusion Matrix." Version 6, August 20. Accessed 2021-09-09.
+https://devopedia.org/confusion-matrix
+Hvitfeldt, E. and Silge, J. (2021). Supervised Machine Learning for Text Analysis in R https://smltar.com/mlclassification.html
+Silge, J & Robinson, D. (2021). Text Mining with R: A Tidy Approach (built by the bookdown R package and last built on 2021-09-02). https://www.tidytextmining.com/index.html
+
+
+# for full report see pdf file 
